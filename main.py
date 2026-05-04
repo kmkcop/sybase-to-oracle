@@ -1,5 +1,5 @@
 def main():
-    print("Hello from sybase-to-oracle-using-copilot!")
+    print("Hello from sybase-to-oracle!")
 
 
 if __name__ == "__main__":

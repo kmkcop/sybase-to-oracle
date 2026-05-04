@@ -1,5 +1,5 @@
 [project]
-name = "sybase-to-oracle-using-copilot"
+name = "sybase-to-oracle"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
